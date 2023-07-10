@@ -16,9 +16,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erubbo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
- ![Snake animation](https://github.com/Erubbo/Eerubbo/blob/output/github-contribution-grid-snake.svg) 
- ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+ ![Snake animation](https://github.com/Erubbo/Eerubbo/blob/output/github-contribution-grid-snake.svg);
+ ![GitHub Snake Light](github-snake.svg#gh-light-mode-only);
+ ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   
   
 <!--
